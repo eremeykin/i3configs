@@ -1,0 +1,3 @@
+#!/bin/sh
+setxkbmap "us,ru" ",winkeys" "grp:win_space_toggle"
+redshift -O 3000
